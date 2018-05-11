@@ -1,0 +1,8 @@
+D:\LTM-TH-02\Client\bin\Debug\Client.exe.config
+D:\LTM-TH-02\Client\bin\Debug\Client.exe
+D:\LTM-TH-02\Client\bin\Debug\Client.pdb
+D:\LTM-TH-02\Client\obj\Debug\Client.Form1.resources
+D:\LTM-TH-02\Client\obj\Debug\Client.Properties.Resources.resources
+D:\LTM-TH-02\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\LTM-TH-02\Client\obj\Debug\Client.exe
+D:\LTM-TH-02\Client\obj\Debug\Client.pdb

@@ -1,0 +1,9 @@
+D:\LTM-TH-02\LTM-TH-02\bin\Debug\LTM-TH-02.exe.config
+D:\LTM-TH-02\LTM-TH-02\bin\Debug\LTM-TH-02.exe
+D:\LTM-TH-02\LTM-TH-02\bin\Debug\LTM-TH-02.pdb
+D:\LTM-TH-02\LTM-TH-02\obj\Debug\LTM-TH-02.csprojResolveAssemblyReference.cache
+D:\LTM-TH-02\LTM-TH-02\obj\Debug\LTM_TH_02.Form1.resources
+D:\LTM-TH-02\LTM-TH-02\obj\Debug\LTM_TH_02.Properties.Resources.resources
+D:\LTM-TH-02\LTM-TH-02\obj\Debug\LTM-TH-02.csproj.GenerateResource.Cache
+D:\LTM-TH-02\LTM-TH-02\obj\Debug\LTM-TH-02.exe
+D:\LTM-TH-02\LTM-TH-02\obj\Debug\LTM-TH-02.pdb
